@@ -1,0 +1,14 @@
+{
+  "name": "partial-content",
+  "version": "0.0.1",
+  "description": "",
+  "type":"module",
+  "scripts": {
+    "start": "node server-main.js"
+  },
+  "author": "Chitranjan Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
